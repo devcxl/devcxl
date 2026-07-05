@@ -11,15 +11,6 @@
 
 我喜欢做小而实用的工具，把 AI 能力接入到真实的操作系统、浏览器、编辑器和开发工作流中。
 
-## 关注方向
-
-* AI Agent、MCP、本地 Agent 工具链
-* Linux 桌面软件、输入法、音频处理
-* 后端业务系统：订单、支付订阅、钱包计费、金融风控
-* 浏览器自动化与扩展开发
-* 开发者工具、CI/CD、监控告警
-* Web3、消息触达、后台管理
-
 ## 技术栈
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)

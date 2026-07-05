@@ -11,15 +11,6 @@ Currently focused on open-source projects in AI Agent, browser automation, Linux
 
 I enjoy building small yet practical tools that bring AI capabilities into real operating systems, browsers, editors, and developer workflows.
 
-## Areas of interest
-
-* AI Agent, MCP, local agent toolchain
-* Linux desktop software, input methods, audio processing
-* Backend systems: order, payment, subscription, billing, financial risk control
-* Browser automation & extension development
-* Developer tools, CI/CD, monitoring & alerting
-* Web3, messaging, admin panels
-
 ## Tech stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
