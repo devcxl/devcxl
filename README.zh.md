@@ -1,31 +1,31 @@
 ## hey 👋
 
-I'm devcxl, also known as 半颗白菜🥬 (Half a Cabbage).
+我是 devcxl，也可以叫我 半颗白菜🥬。
 
-Backend-leaning full-stack developer, long-time Linux user.
-Currently focused on open-source projects in AI Agent, browser automation, Linux desktop tools, input methods, and developer workflows.
+偏后端的全栈开发者，长期 Linux 用户。
+目前主要在做 AI Agent、浏览器自动化、Linux 桌面工具、输入法与开发者工作流相关的开源项目。
 
-> Freelancing at the moment
+> 目前自由职业
 
-## What I'm working on
+## 我正在做的事
 
-I enjoy building small yet practical tools that bring AI capabilities into real operating systems, browsers, editors, and developer workflows.
+我喜欢做小而实用的工具，把 AI 能力接入到真实的操作系统、浏览器、编辑器和开发工作流中。
 
-## Areas of interest
+## 关注方向
 
-* AI Agent, MCP, local agent toolchain
-* Linux desktop software, input methods, audio processing
-* Backend systems: order, payment, subscription, billing, financial risk control
-* Browser automation & extension development
-* Developer tools, CI/CD, monitoring & alerting
-* Web3, messaging, admin panels
+* AI Agent、MCP、本地 Agent 工具链
+* Linux 桌面软件、输入法、音频处理
+* 后端业务系统：订单、支付订阅、钱包计费、金融风控
+* 浏览器自动化与扩展开发
+* 开发者工具、CI/CD、监控告警
+* Web3、消息触达、后台管理
 
-## Tech stack
+## 技术栈
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Shell](https://img.shields.io/badge/Shell_Script-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
@@ -50,5 +50,10 @@ I enjoy building small yet practical tools that bring AI capabilities into real 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=github&logoColor=white)
+![OpenCode](https://img.shields.io/badge/OpenCode-000000?style=flat-square)
+![CodeGraph](https://img.shields.io/badge/CodeGraph-000000?style=flat-square)
+![LSP](https://img.shields.io/badge/LSP-000000?style=flat-square)
+![Browser Automation](https://img.shields.io/badge/Browser_Automation-000000?style=flat-square)
+![Local Agent Tools](https://img.shields.io/badge/Local_Agent_Tools-000000?style=flat-square)
 
